@@ -1,4 +1,4 @@
-<img src="https://pokapu.com/images/pokapu-full-dark.svg">
+<img src="https://pokapu.com/images/Pokapu_Full-Color.svg">
 
 # Pokapū
 <a href="https://pokapu.com">Learn More</a>
