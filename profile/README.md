@@ -8,3 +8,4 @@ Pokapū is a modern neobanking product for Aotearoa that puts the multiplicative
 ## Contacts
 - Xander McLeod (Tech): xander@pokapu.com
 - Frederic Kwan (Finance): frederic@pokapu.com
+- Dhruvkanth Puli (Tech): dhruvkanth@pokapu.com
